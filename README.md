@@ -11,9 +11,10 @@ buat single layout yang berisi deskripsi, portfolio,
 yang berisi form isian: nama, email, message, dll
 
 A. jika email di input
-<img width="468" alt="Screenshot 2024-10-23 074830" src="https://github.com/user-attachments/assets/99c132c8-dfaa-4bd6-ad51-8973f2646c51">
+<img width="720" alt="Screenshot 2024-10-23 094928" src="https://github.com/user-attachments/assets/e4512093-ef5d-4349-8b60-f5f3a8c1a255">
 
 B. jika email tidak di input
-<img width="457" alt="Screenshot 2024-10-23 074847" src="https://github.com/user-attachments/assets/dc5b5935-7774-47ba-aa82-57a585fc0cdb">
+<img width="719" alt="Screenshot 2024-10-23 094945" src="https://github.com/user-attachments/assets/539d48d4-1664-4e2a-82b7-e549d6ba5334">
+
 
 
